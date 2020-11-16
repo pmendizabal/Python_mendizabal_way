@@ -1,3 +1,3 @@
 # Python_mendizabal_way
 
-##Crash course on programming basics on python
+Crash course on programming basics on python
