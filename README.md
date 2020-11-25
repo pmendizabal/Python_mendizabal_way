@@ -1,3 +1,3 @@
-# Python_mendizabal_way
+# Presentation
 
 Crash course on programming basics on python
